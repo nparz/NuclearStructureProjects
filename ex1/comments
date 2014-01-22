@@ -1,0 +1,33 @@
+a. 
+The neutron seperation energy plot shows an obvious sharp decrease in 
+seperation energy as we move towards more neutron heavy nuclei. 
+Likewise, proton heavy nuclei have exceedingly low proton seperation energies. 
+This seems intuitively correct. The largest seperation energies in both cases 
+are in low mass nuclei. Pairing effects are quite noticeable from the plots, as
+we see noticeably higher neutron and proton seperation energies for even numbers
+ of neutrons and protons respectively. 
+
+b. 
+Qualitatively, the liquid drop model seems to predict seperation energies
+ quite well in the medium to heavy mass regions. In the light mass region the 
+seperation energies are exagerated greatly. (My plots do not continue to assign
+colors to energies over 25 MeV, to facilitate comparisons with the experimental
+ data.) The odd-even staggering is not evident in these plots. This is expected
+because we have not accounted for pairing in the model. 
+
+c.
+Once again we see good qualitative agreement between the liquid drop model and
+experiment in the medium and heavy mass regions, and poor agreement in the low 
+mass region. Breaking the liquid drop model down shows us the dominance of the
+volume term in the calculation. The surface and asymmetric terms play a large
+roll in correcting the contribution from the volume term. The coulomb term
+contributes somewhat for heavy mass nuclei. Perhaps the problems this model 
+experiences in the low mass region are related to the fact that we use a volume
+term with a surface correction to represent nuclei so small that they lack any 
+distinction between volume and surface. 
+
+d.
+The Neutron Dripline has a fairly linear nature. Unfortunately there are not 
+many experimental points for comparison. The points that we do have seem to fit 
+nicely with the prediction from the liquid drop model, but we cannot confidently
+extrapolate such a limited dataset to the higher mass regions. 
