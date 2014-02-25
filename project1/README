@@ -1,0 +1,5 @@
+Lipkin_multiplet_solve.f90
+- Solves the J=2 multiplet, needs to be compiled with LAPACK
+
+Lipkin_HF.f90 
+- Solves HF problem for 4 particle Lipkin model, no need for LAPACK
